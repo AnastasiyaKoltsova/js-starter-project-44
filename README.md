@@ -149,3 +149,17 @@ Your answer: 1
 '1' is wrong answer ;(. Correct answer was '15'.
 Let's try again, Sam!
 ```
+Игра "Простое ли число?"
+
+Пример:
+
+brain-prime
+
+Welcome to the Brain Games!
+May I have your name? Sam
+Hello, Sam!
+Answer "yes" if given number is prime. Otherwise answer "no".
+Question: 7
+Your answer: yes
+Correct!
+Весь вывод и логика в случае правильного и неправильного ответа повторяют предыдущие шаги.
